@@ -1,2 +1,2 @@
 # OpenSocialist
-An open source multi-db support social medial back-end server
+An open source multi-db social media back-end server
